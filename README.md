@@ -1,5 +1,6 @@
 # pengalaman-belajar
 latihan ke 2
 
-belajar dasar github
-* progress
+**belajar dasar github**<br>
+- progress
+- julian
